@@ -1,0 +1,36 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="87px" height="100px" viewBox="-0.5 -0.5 87 100" content="&lt;mxfile&gt;&lt;diagram id=&quot;FQzf5lUTzLmldfY2uJP3&quot; name=&quot;ページ1&quot;&gt;jZRRb+IwDIB/TV8RaemAx7WMbdKddNJOusdT1po2WlpXaRjlfv05xIWWdtKgQPzZThxjO4jSqns2sil/Yg46CJd5F0S7IAw3Dxv6duDswVYwKIzKPRI38Kb+AcMl06PKoR0ZWkRtVTOGGdY1ZHbEpDF4GpsdUI9PbWQBE/CWST2lf1RuS75WuL7xF1BF2Z8sHrZeU8nemG/SljLH0wBFT0GUGkTrV1WXgna56/Pi/fZfaK+BGajtdxxC7/Ap9ZHv9tvIulWW4LO0cJJnDtSe+9u3H2Azd41lECUNqtpe0hkn9NBpqf/EZJo6sgjjGTjH1lMopmb0I+ZOuIdzbD2FYmrmpD7qMZxj63ga8b23mPEWd970RAkerVY1pNfCdTk+YG1T1Ggu+Y/ovXf/ZlIYmSsY6bareLcPB7qdMrSRwpr0NRpXfslBaT3wiR+jZRITb63BDxhoDpcXaXLZlpBzOJ9grKJm+CHfQf9CKha//Ttai9XA4FGrwiksNkQlSxlFBXRAUtpKkyz4htzmIuxlrjh3pGwbn46D6lwcCfVN45RVV7gJs5CndrUw0OLRZPCauXgSEv1qbGV9gf8tuLyjhHuAoobuyz4S1+6kqQZYgTXUGkt2CDfc0DzRwhXLp9t8WPOQKwejoWeSJ1Jx3fnWtLTgvu3F23y46AZDNnr6Dw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="mx-gradient-945df2-1-5a30b5-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(90, 48, 181); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(148, 93, 242); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M 4 0 L 82 0 L 82 78 L 4 78 Z" fill="url(#mx-gradient-945df2-1-5a30b5-1-s-0)" stroke="none" pointer-events="all"/>
+        <path d="M 46.73 67.64 C 47.97 66.58 48.78 65.02 48.78 63.27 C 48.78 60.48 46.79 58.14 44.16 57.61 L 44.16 48.16 C 48.33 47.64 51.64 44.33 52.16 40.16 L 61.61 40.16 C 62.14 42.79 64.48 44.78 67.27 44.78 C 69.02 44.78 70.58 43.97 71.64 42.73 C 69.96 55.68 59.68 65.96 46.73 67.64 M 14.36 42.73 C 15.42 43.97 16.98 44.78 18.73 44.78 C 21.52 44.78 23.86 42.79 24.39 40.16 L 33.84 40.16 C 34.36 44.33 37.67 47.64 41.84 48.16 L 41.84 57.61 C 39.21 58.14 37.22 60.48 37.22 63.27 C 37.22 65.02 38.03 66.58 39.27 67.64 C 26.32 65.96 16.04 55.68 14.36 42.73 M 22.2 39 C 22.2 40.91 20.64 42.47 18.73 42.47 C 16.82 42.47 15.27 40.91 15.27 39 C 15.27 37.09 16.82 35.53 18.73 35.53 C 20.64 35.53 22.2 37.09 22.2 39 M 39.27 10.36 C 38.03 11.42 37.22 12.98 37.22 14.73 C 37.22 17.52 39.21 19.86 41.84 20.39 L 41.84 29.84 C 37.67 30.36 34.36 33.67 33.84 37.84 L 24.39 37.84 C 23.86 35.21 21.52 33.22 18.73 33.22 C 16.98 33.22 15.42 34.03 14.36 35.27 C 16.04 22.32 26.32 12.04 39.27 10.36 M 43 11.27 C 44.91 11.27 46.47 12.82 46.47 14.73 C 46.47 16.64 44.91 18.2 43 18.2 C 41.09 18.2 39.53 16.64 39.53 14.73 C 39.53 12.82 41.09 11.27 43 11.27 M 43 45.93 C 39.18 45.93 36.07 42.82 36.07 39 C 36.07 35.18 39.18 32.07 43 32.07 C 46.82 32.07 49.93 35.18 49.93 39 C 49.93 42.82 46.82 45.93 43 45.93 M 43 66.73 C 41.09 66.73 39.53 65.18 39.53 63.27 C 39.53 61.36 41.09 59.8 43 59.8 C 44.91 59.8 46.47 61.36 46.47 63.27 C 46.47 65.18 44.91 66.73 43 66.73 M 70.73 39 C 70.73 40.91 69.18 42.47 67.27 42.47 C 65.35 42.47 63.8 40.91 63.8 39 C 63.8 37.09 65.35 35.53 67.27 35.53 C 69.18 35.53 70.73 37.09 70.73 39 M 71.64 35.27 C 70.58 34.03 69.02 33.22 67.27 33.22 C 64.48 33.22 62.14 35.21 61.61 37.84 L 52.16 37.84 C 51.64 33.67 48.33 30.36 44.16 29.84 L 44.16 20.39 C 46.79 19.86 48.78 17.52 48.78 14.73 C 48.78 12.98 47.97 11.42 46.73 10.36 C 59.68 12.04 69.96 22.32 71.64 35.27 M 43 7.8 C 25.8 7.8 11.8 21.8 11.8 39 C 11.8 56.2 25.8 70.2 43 70.2 C 60.2 70.2 74.2 56.2 74.2 39 C 74.2 21.8 60.2 7.8 43 7.8" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 85px; margin-left: 43px;">
+                        <div data-drawio-colors="color: #232F3E; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(35, 47, 62); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Transit Gateway
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="43" y="97" fill="#232F3E" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Transit Gatew...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
