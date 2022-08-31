@@ -1,13 +1,13 @@
-# svg-file-display-test
+# png-file-display-test
 
-## drawio-shape-only.drawio.svg
+## drawio-shape-only.drawio.png
 
-![drawio-shape-only.drawio.svg](./drawio-shape-only.drawio.svg)
+![drawio-shape-only.drawio.png](./drawio-shape-only.drawio.png)
 
-## drawio-shape-and-imported-image.drawio.svg
+## drawio-shape-and-imported-image.drawio.png
 
-![drawio-shape-and-imported-image.drawio.svg](./drawio-shape-and-imported-image.drawio.svg)
+![drawio-shape-and-imported-image.drawio.png](./drawio-shape-and-imported-image.drawio.png)
 
-## imported-image.drawio.svg
+## imported-image.drawio.png
 
-![imported-image.drawio.svg](./imported-image.drawio.svg)
+![imported-image.drawio.png](./imported-image.drawio.png)
